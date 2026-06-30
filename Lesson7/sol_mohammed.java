@@ -2,7 +2,7 @@ package Lesson7;
 
 public class sol_mohammed {
     public static void main(String[] args) {
-        System.out.println(leftdigit(3,3453787));
+        System.out.println(leftdigit(3,34537871));
     }
 
     public static int leftdigit(int k , int num){
