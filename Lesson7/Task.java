@@ -4,7 +4,7 @@ public class Task
 {
     public static void main(String[] args)
     {
-        System.out.println("123");
+        System.out.println("123-123");
         System.out.println(leftDigits(1234,2));
         System.out.println(leftDigits(567,1));
         System.out.println(leftDigits(892456,3));
