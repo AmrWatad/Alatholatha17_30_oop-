@@ -1,4 +1,4 @@
-﻿package Lessons_1_6;
+package Lessons_1_6;
 
 public class mohammed {
     public static void main(String[] args) {
