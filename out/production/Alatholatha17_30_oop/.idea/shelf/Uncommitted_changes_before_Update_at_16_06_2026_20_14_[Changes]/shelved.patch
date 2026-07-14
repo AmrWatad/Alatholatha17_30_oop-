@@ -1,0 +1,17 @@
+Index: Lesson3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Lesson3 {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"Lesson 3\");\r\n        System.out.println(\"Lesson4\");\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Lesson3.java b/Lesson3.java
+--- a/Lesson3.java	(revision 86f209a5d939115c6b85aab1ca855db75ecd865b)
++++ b/Lesson3.java	(date 1780415906135)
+@@ -3,4 +3,4 @@
+         System.out.println("Lesson 3");
+         System.out.println("Lesson4");
+     }
+-}
++}
+\ No newline at end of file
